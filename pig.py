@@ -1,6 +1,5 @@
-"""My name: Liang Chen
-   My PennID: 76922404
-   I worked through this homework alone without help."""
+"""For the description of this game, please refer to "Description of Pig(dice) Game.pdf
+Try it yourself!"""
 def roll():
     """This function returns a random number in the range of 1 to 6, inclusive."""
     import random
