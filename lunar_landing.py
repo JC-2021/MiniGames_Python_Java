@@ -1,8 +1,7 @@
-"""My name: Liang Chen
-   My PennID: 76922404
-   I worked through this homework alone without help.
+"""For the description of this program, please refer to "Description of Lunar Lander Game.pdf"
    Inputs that lead to win: 1,1,1,1,1,1,1,1,40,1,1,40,1,9,0
-   Inputs that lead to loss: 10,10,10,10,10,1,1,1,1,1,1,1,1,1,1,40,0"""
+   Inputs that lead to loss: 10,10,10,10,10,1,1,1,1,1,1,1,1,1,1,40,0
+   Try it yourself!"""
 altitude = 100.0 # Give initial values to variables altitude, velocity, fuel and second.
 velocity = 0.0
 fuel = 100.0
