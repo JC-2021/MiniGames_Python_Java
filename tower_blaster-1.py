@@ -1,6 +1,5 @@
-"""My name: Liang Chen
-   My PennID: 76922404
-   I worked through this homework alone without help."""
+# Tower Blaster Game
+
 def setup_bricks():
     """ This function creates a main pile of 60 bricks, represented as a list containing the integers 1 –60. Meanwhile, it creates a discard pile of 0 bricks, represented as an empty list.
         The function returns both of these two lists."""
