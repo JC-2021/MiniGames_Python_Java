@@ -1,3 +1,3 @@
-## Interesting little programs with Python && Java. 
+## Interesting little programs with Python and Java. 
 
 #### (To be updated...)
