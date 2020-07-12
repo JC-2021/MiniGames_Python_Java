@@ -1,3 +1,3 @@
-# Mini_Games_Python_and_Java
+# MiniGames_Python_Java
 
 Interesting little programs with Python and Java. 
